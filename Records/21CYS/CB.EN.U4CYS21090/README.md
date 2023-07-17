@@ -110,6 +110,5 @@ public class di {
 
 #### Screenshots
 
-<img src="https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/ba4c44ff-8ea1-4290-ac5d-73311f1c9fe7" width="300" height="450">
+<img src="[https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/ba4c44ff-8ea1-4290-ac5d-73311f1c9fe7](https://github.com/Yuvarajkumar23/20CYS383-Java-Programming-Lab/blob/main/Records/21CYS/CB.EN.U4CYS21090/project.png)" width="300" height="450">
 &nbsp &nbsp &nbsp
-<img src="https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/77060703-a6a0-4d94-a536-481651f868d3" width="300" height="450">
