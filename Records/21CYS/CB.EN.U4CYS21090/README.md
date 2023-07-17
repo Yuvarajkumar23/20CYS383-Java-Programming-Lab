@@ -102,13 +102,6 @@ public class di {
         frame.setVisible(true);
     }
 }
-
-### Demo
-
- ![image](https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/26ba0069-e0bd-4763-a6c7-be919867f0d9)
-
-
 #### Screenshots
-
-<img src="[https://github.com/Yuvarajkumar23/20CYS383-Java-Programming-Lab/blob/main/Records/21CYS/CB.EN.U4CYS21090/project.png]" width="300" height="450">
+<img src="project.png" width="300" height="450">
 &nbsp &nbsp &nbsp
